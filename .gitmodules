@@ -1,0 +1,3 @@
+[submodule "cryptopp"]
+	path = cryptopp
+	url = git@github.com:weidai11/cryptopp.git
